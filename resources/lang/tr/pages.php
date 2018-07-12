@@ -21,4 +21,8 @@ return [
         'Stacks ' => 'Stacks',
         'Contact' => 'İletişim',
     ],
+
+    'contact' => [
+        'Message sent!' => 'Mesaj gönderildi!!',
+    ],
 ];

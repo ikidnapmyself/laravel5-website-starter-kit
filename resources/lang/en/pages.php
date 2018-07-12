@@ -23,4 +23,8 @@ return [
         'Gallery' => 'Gallery',
         'Contact' => 'Contact',
     ],
+
+    'contact' => [
+        'Message sent!' => 'Message sent!',
+    ],
 ];
