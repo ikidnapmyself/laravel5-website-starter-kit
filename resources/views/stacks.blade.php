@@ -7,6 +7,9 @@
     <script src="{{ asset("js/custom.js") }}" type="text/javascript"></script>
 @endpush
 @section('content')
+    @breadcrumb
+    @endbreadcrumb
+
     <main role="main" class="container">
 
         <div class="starter-template">
