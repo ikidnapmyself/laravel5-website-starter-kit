@@ -12,5 +12,15 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
+
+Route::get('/language', 'LanguageSwitcherController@index');
+Route::get('/contact', 'ContactController@show');
+Route::post('/contact',  'ContactController@mailToAdmin');
+
+Route::get('/stacks', function () {
+    return view('stacks');
+});
+
+Route::get('/gallery', 'GalleryController@index');
