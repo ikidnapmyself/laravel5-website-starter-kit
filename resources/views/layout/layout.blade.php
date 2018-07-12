@@ -19,7 +19,7 @@
 <body>
     @include('layout.header')
     <!-- CONTENT -->
-    <div class="content">
+    <div class="container">
         @yield('content')
     </div>
     <!-- CONTENT -->
