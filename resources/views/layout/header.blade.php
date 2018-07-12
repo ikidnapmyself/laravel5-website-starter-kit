@@ -15,6 +15,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="{{ url('gallery') }}">@lang('pages.menu.Gallery')</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ url('contact') }}">@lang('pages.menu.Contact')</a>
+            </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     LANGUAGE
