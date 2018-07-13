@@ -1,4 +1,4 @@
-###Bootstrap starter template with Laravel 5
+### Laravel 5 Website Starter-Kit
 
 This is a sample project to use when you make a static website. Basically prepare your template for blade template 
 engine and put your template assets into `public` folder.
