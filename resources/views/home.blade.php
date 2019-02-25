@@ -7,7 +7,7 @@
     <main role="main" class="container">
 
         <div class="starter-template">
-            <h1>Bootstrap starter template with Laravel 5.6</h1>
+            <h1>Bootstrap starter template with Laravel 5.7</h1>
             <p class="lead">
                 Use this document as a way to quickly start any new project.
                 <br>
